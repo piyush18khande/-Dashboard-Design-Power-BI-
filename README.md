@@ -5,11 +5,11 @@ Sales & Profit Dashboard (Power BI):-
 
 Repository Structure:-
 dashboard-task3
-├── dataset.csv               # Sales/Financial dataset used for analysis
-├── dashboard.pbix            # Power BI dashboard file
-├── dashboard.pdf             # Exported dashboard (PDF format)
-├── summary.pptx              # PPT presentation with objectives & insights
-├── screenshots/              # Dashboard screenshots for quick preview
+├── dataset.csv            
+├── dashboard.pbix            
+├── dashboard.pdf            
+├── summary.pptx           
+├── screenshots/          
 │   ├── dashboard_overview.png
 │   ├── sales_trend.png
 │   └── profit_by_region.png
