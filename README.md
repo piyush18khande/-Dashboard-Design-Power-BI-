@@ -10,9 +10,9 @@ dashboard-task3
 ├── dashboard.pdf            
 ├── summary.pptx           
 ├── screenshots/          
-│   ├── dashboard_overview.png
-│   ├── sales_trend.png
-│   └── profit_by_region.png
+├── dashboard_overview.png
+├── sales_trend.png
+└── profit_by_region.png
 └── README.md                 
 
 
